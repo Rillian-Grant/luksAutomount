@@ -5,4 +5,4 @@ This script makes the process of opening and mounting luks encrypted volumes muc
 
 Note: this readme will be made better.
 
-> Tip: If you have one usb that you mountall the time create a second script calling the first script with all the arguments specified.
+> Tip: If you have one device that you moun tall the time create a second script calling this script with all the arguments specified.
